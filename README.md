@@ -3,23 +3,23 @@
 Mini Event Finder is a full-stack web application that allows users to discover events, view event details, and join events with real-time participant tracking, backed by a PostgreSQL database.
 
 ## Features
-# View all events
-# Filter events by location
-# Event detail page
-# Join events with capacity limits
-# Persistent data using PostgreSQL
+- View all events
+- Filter events by location
+- Event detail page
+- Join events with capacity limits
+- Persistent data using PostgreSQL
 
 ## Tech Stack
 
 ## Frontend
-# React (Vite)
-# TypeScript
-# React Router
+- React (Vite)
+- TypeScript
+- React Router
 
-#Backend
-# Node.js
-# Express.js
-# PostgreSQL
+# Backend
+- Node.js
+- Express.js
+- PostgreSQL
 
 ## Scripts
 - `npm run dev` — run backend and frontend together
