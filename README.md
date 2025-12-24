@@ -11,7 +11,7 @@ Mini Event Finder is a full-stack web application that allows users to discover 
 
 ## Tech Stack
 
-## Frontend
+# Frontend
 - React (Vite)
 - TypeScript
 - React Router
@@ -28,7 +28,7 @@ Mini Event Finder is a full-stack web application that allows users to discover 
 
 ## API Endpoints
 
-GET /api/events – Get all events
-GET /api/events/:id – Get event details
-POST /api/events – Create event
-POST /api/events/:id/participate – Join event
+- GET /api/events – Get all events
+- GET /api/events/:id – Get event details
+- POST /api/events – Create event
+- POST /api/events/:id/participate – Join event
