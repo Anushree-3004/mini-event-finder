@@ -3,7 +3,7 @@ export interface Event {
   title: string;
   description: string;
   location: string;
-  date: string; // ISO string
+  date: string;
   maxParticipants: number;
   currentParticipants: number;
   lat?: number;

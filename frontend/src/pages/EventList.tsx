@@ -19,7 +19,6 @@ export default function EventList() {
 
   return (
     <div className="container">
-      <h1>Mini Event Finder</h1>
       <div className="toolbar">
         <input
           placeholder="Filter by location..."
